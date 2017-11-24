@@ -9,7 +9,7 @@ python -m SimpleHTTPServer 8000
 
 then run 
 
-jupyter nbconvert Broadcast-Synchronization-MapReduce-Idea-slides.slides.html --to slides --post serve
+jupyter nbconvert Broadcast-Synchronization-MapReduce-Idea-slides.ipynb --to slides --post serve
 
 
 in dir checked out from github
