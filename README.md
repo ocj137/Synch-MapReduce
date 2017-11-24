@@ -1,6 +1,8 @@
 # Synch-MapReduce
 
-Run these: 
+Some ideas on merging my work w Jie Zhou on network performance with solving some issues in MapReduce.
+
+To look at this as slides, run these: 
 
 python -m SimpleHTTPServer 8000 
 
