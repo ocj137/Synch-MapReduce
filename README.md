@@ -2,7 +2,7 @@
 
 Some ideas on merging my work w Jie Zhou on network performance with solving some issues in MapReduce.
 
-To look at this as slides, run these: 
+To look at this in slide form, run these commands: 
 
 python -m SimpleHTTPServer 8000 
 
