@@ -6,7 +6,7 @@ To view this work in slide form, run these commands:
 
 python -m SimpleHTTPServer 8000 
 
-then run  the jupyter command
+then one shouldrun the jupyter command
 
 jupyter nbconvert Broadcast-Synchronization-MapReduce-Idea-slides.ipynb --to slides --post serve
 
