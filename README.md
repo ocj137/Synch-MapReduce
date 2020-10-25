@@ -1,6 +1,6 @@
 # Synch-MapReduce
 
-Here are some ideas on merging my work w Jie Zhou on network performance with solving some issues in MapReduce as shown by Prof. Yorav Freund.
+Here are ideas on merging my work w Jie Zhou on network performance with solving some issues in MapReduce as shown by Prof. Yorav Freund.
 
 To view this work in slide form, run these commands: 
 
