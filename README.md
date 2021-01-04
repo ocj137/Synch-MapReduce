@@ -1,4 +1,4 @@
-# Synch-MapReduce
+## Synch-MapReduce
 
 Here are ideas on merging my work w Jie Zhou on network performance with solving some issues in MapReduce as shown by Prof. Yorav Freund.
 
